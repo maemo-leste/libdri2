@@ -1,0 +1,3 @@
+force-dependency-nouveau1.patch
+moving-libdri2test-to-static.patch
+names-pitches-array-multiplanar-yuv.patch
